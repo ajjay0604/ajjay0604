@@ -6,7 +6,7 @@
 🧠 Machine Learning Enthusiast | 🤝 Community Volunteer  
 📍 Chennai, India
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -20,7 +20,7 @@
 ### Tools & Platforms
 `Git/GitHub` | `REST APIs` | `Visual Studio Code` | `Arduino IDE` | `Jupyter Notebook`
 
----
+
 
 ## 💼 Experience
 
@@ -32,7 +32,7 @@ Worked on drone tech, CanSat/CubeSat systems, exoplanet astronomy, and space ent
 📍 Hybrid | `Aug 2024 – Oct 2024`  
 Built and optimized technical components of the website to ensure smooth functionality and enhance brand presence.
 
----
+
 
 ## 📝 Publications
 
@@ -40,7 +40,7 @@ Built and optimized technical components of the website to ensure smooth functio
 📍 ICCMC 2025 / IEEE | `Jan 2025 – April 2025`  
 Presented at the 8th International Conference on Computing Methodologies and Communication, to be published in IEEE Xplore. Proposed a scalable, sensor-integrated Road Quality Rating (RQR) system that uses real-time data from vision, vibration, LiDAR, and crowd-sourced inputs to assess road conditions.
 
----
+
 
 ## 🚀 Main Projects
 
@@ -50,7 +50,7 @@ Presented at the 8th International Conference on Computing Methodologies and Com
 - **DevLab – Ed-Tech Platform**  
   A web platform for interactive code evaluation and personalized learning experiences.
 
----
+
 
 ## 🧾 Certifications
 
@@ -60,7 +60,7 @@ Presented at the 8th International Conference on Computing Methodologies and Com
 - 💻 C, C++, Python Programming  
 - 🤖 Machine Learning with Azure ML
 
----
+
 
 ## 📫 Let's Connect!
 
@@ -68,7 +68,7 @@ Presented at the 8th International Conference on Computing Methodologies and Com
 - 🌐 Website: [Link to my Website](https://ajjay0604.github.io/Web_Profile)  
 - 🔗 LinkedIn: [linkedin.com/in/ajjay-adithya-v](https://www.linkedin.com/in/ajjay-adhithya-v-218716272/)
 
----
+
 
 _“Driven by curiosity, powered by code, and inspired by innovation.”_
 <img width="468" height="658" alt="image" src="https://github.com/user-attachments/assets/3adb5260-2f99-4ca3-8a73-eaf4bde60512" />
