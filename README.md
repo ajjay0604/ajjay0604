@@ -3,8 +3,8 @@
 ---
 
 🎓 Final Year Computer Science Undergrad  
-💻 Full-Stack Web Developer | 🔬 Researcher in Tech & Innovation  
-🚁 Space Tech Intern | 🧠 Machine Learning Enthusiast | 🤝 Community Volunteer  
+💻 Full-Stack Web Developer | 🔬 Researcher in Tech & Innovation |
+🧠 Machine Learning Enthusiast | 🤝 Community Volunteer  
 📍 Chennai, India
 
 ---
