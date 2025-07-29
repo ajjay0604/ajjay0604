@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajjay Adhithya V!
+# 👋 Hi, I'm Ajjay!
 
 ---
 
