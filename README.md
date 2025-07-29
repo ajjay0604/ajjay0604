@@ -79,8 +79,8 @@ Presented at the 8th International Conference on Computing Methodologies and Com
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [ajjayadi2005.aa@gmail.com](mailto:ajayadi2005.aa@gmail.com)  
-- 🌐 Website: [ajjay0604.github.io/Web_Profile](https://ajjay0604.github.io/Web_Profile)  
+- 📧 Email: [ajayadi2005.aa@gmail.com](mailto:ajayadi2005.aa@gmail.com)  
+- 🌐 Website: [Link to my Website](https://ajjay0604.github.io/Web_Profile)  
 - 🔗 LinkedIn: [linkedin.com/in/ajjay-adithya-v]([https://www.linkedin.com/in/ajjay-adithya-v](https://www.linkedin.com/in/ajjay-adhithya-v-218716272/)
 
 ---
