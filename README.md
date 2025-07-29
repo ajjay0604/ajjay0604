@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ajjay!
 
----
 
 🎓 Final Year Computer Science Undergrad  
 💻 Full-Stack Web Developer | 🔬 Researcher in Tech & Innovation |
