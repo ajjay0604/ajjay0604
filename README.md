@@ -53,11 +53,11 @@ Built and optimized technical components of the website to ensure smooth functio
 
 **A Multimodal Road Surface Quality Rating System**  
 📍 ICCMC 2025 | `Jan 2025 – April 2025`  
-Presented at the 8th International Conference on Computing Methodologies and Communication, to be published in IEEE Xplore.
+Presented at the 8th International Conference on Computing Methodologies and Communication, to be published in IEEE Xplore. Proposed a scalable, sensor-integrated Road Quality Rating (RQR) system that uses real-time data from vision, vibration, LiDAR, and crowd-sourced inputs to assess road conditions.
 
 ---
 
-## 🚀 Projects
+## 🚀 Main Projects
 
 - **Traffic Signal Optimization Using RL**  
   Simulated traffic with Pygame and applied Random Forest + Q-learning for dynamic signal control.
