@@ -71,5 +71,4 @@ Presented at the 8th International Conference on Computing Methodologies and Com
 
 
 _“Driven by curiosity, powered by code, and inspired by innovation.”_
-<img width="468" height="658" alt="image" src="https://github.com/user-attachments/assets/3adb5260-2f99-4ca3-8a73-eaf4bde60512" />
 
