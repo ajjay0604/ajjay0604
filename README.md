@@ -20,14 +20,6 @@
 ### Tools & Platforms
 `Git/GitHub` | `REST APIs` | `Visual Studio Code` | `Arduino IDE` | `Jupyter Notebook`
 
-
-## 📝 Publications
-
-**A Multimodal Road Surface Quality Rating System**  
-📍 ICCMC 2025 / IEEE | `Jan 2025 – April 2025`  
-Presented at the 8th International Conference on Computing Methodologies and Communication, to be published in IEEE Xplore. Proposed a scalable, sensor-integrated Road Quality Rating (RQR) system that uses real-time data from vision, vibration, LiDAR, and crowd-sourced inputs to assess road conditions.
-
-
 ## 🚀 Main Projects
 
 - **Traffic Signal Optimization Using RL**  
