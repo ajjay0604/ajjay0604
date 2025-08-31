@@ -8,9 +8,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/ajjay0604">
-    <img src="https://img.shields.io/github/followers/ajjay0604?label=Followers&logo=GitHub&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
-  </a>
   <a href="mailto:ajayadi2005.aa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
