@@ -32,12 +32,6 @@
 </div>
 
 
-<h2 align="center">🔥 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajjay0604&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="mailto:ajayadi2005.aa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFA500?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
