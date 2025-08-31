@@ -17,15 +17,11 @@
   </a>
 </p>
 
----
-
 <h2 align="center">🎨 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" />
 </p>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -33,14 +29,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
 <h2 align="center">🔥 Top Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajjay0604&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
----
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
