@@ -6,6 +6,9 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <a href="https://ajjay0604.github.io/Web_Profile">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="mailto:ajayadi2005.aa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -13,6 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
