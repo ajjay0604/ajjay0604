@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" />
 </div>
+
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="mailto:ajayadi2005.aa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFA500?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
