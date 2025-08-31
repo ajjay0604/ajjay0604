@@ -46,8 +46,6 @@
   <a href="https://ajjay0604.github.io/Web_Profile"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
