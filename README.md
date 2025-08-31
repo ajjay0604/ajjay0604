@@ -1,16 +1,6 @@
 # 👋 Hi, I'm Ajjay!
-<img 
-  src="https://img.shields.io/badge/Profile%20Views-1234-7bb4d4?style=for-the-badge&labelColor=7bb4d4&color=7bb4d4&logoColor=black&label=PROFILE%20VIEWS&logo=github"
-  alt="Profile views"
-  style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3); color: black;"
-/>
 
-
-<img 
-  src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=7bb4d4&labelColor=7bb4d4&style=for-the-badge&labelColor=7bb4d4" 
-  alt="Profile views"
-  style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3); filter: invert(0%);"
-/>
+<img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
 
 
 
