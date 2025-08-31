@@ -26,7 +26,7 @@
 </p>
 
 
-<h2 align="center" style="margin-top: -30px;">📊 GitHub Stats</h2>
+<h2 align="center" style="margin-top: -100px;">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true" height="165"/>
