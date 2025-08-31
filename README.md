@@ -39,15 +39,6 @@
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-| Project | Description |
-|---------|-------------|
-| 🚦 **Traffic Signal Optimization Using RL** | Simulated traffic with **Pygame** and applied **Random Forest + Q-Learning** for smart signals. |
-| 🎓 **DevLab – Ed-Tech Platform** | Interactive code evaluation & personalized learning powered by **MERN Stack**. |
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=radical&hide_border=true" height="165"/>
