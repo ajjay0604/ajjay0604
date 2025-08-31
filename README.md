@@ -19,7 +19,7 @@
 🎓 Final Year Computer Science Undergrad  
 💻 Full-Stack Web Developer | 🔬 Researcher in Tech & Innovation |
 🧠 Machine Learning Enthusiast | 🤝 Community Volunteer  
-📍 Chennai, India
+📍 Chennai, Tamil Nadu, India 🇮🇳
 
 
 
