@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Ajjay!
 
 <img 
-  src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=7bb4d4&style=for-the-badge" 
+  src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=7bb4d4&labelColor=7bb4d4&style=for-the-badge&labelColor=7bb4d4" 
   alt="Profile views"
-  style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"
+  style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3); filter: invert(0%);"
 />
+
 
 
 🎓 Final Year Computer Science Undergrad  
