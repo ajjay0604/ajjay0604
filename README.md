@@ -9,6 +9,7 @@
   <a href="mailto:ajayadi2005.aa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://ajjay0604.github.io/Web_Profile"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio">
   <a href="https://www.linkedin.com/in/ajjay-adhithya-v-218716272/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
