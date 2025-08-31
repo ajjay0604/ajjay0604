@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=39FF14&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" alt="Typing SVG" />
 </p>
 
-
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile views"/>
@@ -18,9 +17,7 @@
   </a>
 </p>
 
-
 <h2 align="center">🎨 Tech Stack</h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" />
 </div>
@@ -30,7 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
