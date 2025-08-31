@@ -14,14 +14,6 @@
   </a>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  🎓 Final Year Computer Science Undergrad<br/>
-  💻 Full-Stack Developer | 🔬 Tech Researcher | 🧠 ML Enthusiast<br/>
-  📍 Chennai, India 🇮🇳<br/>
-  ✨ <i>"Driven by curiosity, powered by code, inspired by innovation."</i>
-</p>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
