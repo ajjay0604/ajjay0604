@@ -1,60 +1,77 @@
-# 👋 Hi, I'm Ajjay!
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=7A3AC2&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC;Community+Volunteer+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
-<img 
-  src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" 
-  alt="Profile views"
-  style="
-    border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.25);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: inline-block;
-  "
-  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.25)';"
-/>
+---
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/ajjay0604">
+    <img src="https://img.shields.io/github/followers/ajjay0604?label=Followers&logo=GitHub&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
+  </a>
+  <a href="mailto:ajayadi2005.aa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ajjay-adhithya-v-218716272/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
+---
 
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  🎓 Final Year Computer Science Undergrad<br/>
+  💻 Full-Stack Developer | 🔬 Tech Researcher | 🧠 ML Enthusiast<br/>
+  📍 Chennai, India 🇮🇳<br/>
+  ✨ <i>"Driven by curiosity, powered by code, inspired by innovation."</i>
+</p>
 
-🎓 Final Year Computer Science Undergrad  
-💻 Full-Stack Web Developer | 🔬 Researcher in Tech & Innovation |
-🧠 Machine Learning Enthusiast | 🤝 Community Volunteer  
-📍 Chennai, Tamil Nadu, India 🇮🇳
+---
 
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" />
+</p>
 
-## 🛠️ Technical Skills
+---
 
-### Languages & Technologies
-`Python` | `C/C++` | `Java` | `SQL` | `JavaScript` | `R` | `Matlab` | `LT Spice` | `Arduino`  
-`MERN Stack` | `AWS Services` | `Reinforcement Learning Frameworks`
+<h2 align="center">🌟 Featured Projects</h2>
 
-### Web Development
-`HTML` | `CSS` | `Tailwind` | `Bootstrap` | `React` | `Node.js` | `Express.js` | `MongoDB`
+| Project | Description |
+|---------|-------------|
+| 🚦 **Traffic Signal Optimization Using RL** | Simulated traffic with **Pygame** and applied **Random Forest + Q-Learning** for smart signals. |
+| 🎓 **DevLab – Ed-Tech Platform** | Interactive code evaluation & personalized learning powered by **MERN Stack**. |
 
-### Tools & Platforms
-`Git/GitHub` | `REST APIs` | `Visual Studio Code` | `Arduino IDE` | `Jupyter Notebook`
+---
 
-## 🚀 Main Projects
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=radical&hide_border=true" height="165"/>
+</p>
 
-- **Traffic Signal Optimization Using RL**  
-  Simulated traffic with Pygame and applied Random Forest + Q-learning for dynamic signal control.
+---
 
-- **DevLab – Ed-Tech Platform**  
-  A web platform for interactive code evaluation and personalized learning experiences.
+<h2 align="center">🔥 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajjay0604&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
+---
 
-## 📫 Let's Connect!
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:ajayadi2005.aa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ajjay-adhithya-v-218716272/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blueviolet?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ajjay0604.github.io/Web_Profile"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</p>
 
-- 📧 Email: [ajayadi2005.aa@gmail.com](mailto:ajayadi2005.aa@gmail.com)  
-- 🌐 Website: [Link to my Website](https://ajjay0604.github.io/Web_Profile)  
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajjay-adhithya-v-218716272/)
+---
 
-
-
-_“Driven by curiosity, powered by code, and inspired by innovation.”_
-
-
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
