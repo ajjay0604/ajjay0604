@@ -1,6 +1,18 @@
 # 👋 Hi, I'm Ajjay!
 
-<img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+<img 
+  src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" 
+  alt="Profile views"
+  style="
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.25);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: inline-block;
+  "
+  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)';"
+  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.25)';"
+/>
+
 
 
 
