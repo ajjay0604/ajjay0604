@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ajjay!
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ajjay0604)
-
 🎓 Final Year Computer Science Undergrad  
 💻 Full-Stack Web Developer | 🔬 Researcher in Tech & Innovation |
 🧠 Machine Learning Enthusiast | 🤝 Community Volunteer  
