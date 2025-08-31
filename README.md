@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajjay!
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=orange&style=flat-square" alt="Profile views"/>
 </p>
 
