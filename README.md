@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Ajjay!
 
+<img 
+  src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" 
+  alt="Profile views"
+  style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"
+/>
+
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=orange&style=flat-square" alt="Profile views"/>
 </p>
