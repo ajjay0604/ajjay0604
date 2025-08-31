@@ -27,11 +27,12 @@
 <h2 align="center">🎨 Tech Stack</h2>
 <div align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express" style="margin: 15px;" />
   <br />
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin: 15px;" />
 </div>
+
 
 
 <h2 align="center">📫 Connect With Me</h2>
