@@ -26,12 +26,25 @@
 
 <h2 align="center">🎨 Tech Stack</h2>
 <div align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express" style="margin: 15px;" />
-  <br />
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin: 15px;" />
+  <img src="https://skillicons.dev/icons?i=python" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=c" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=java" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=react" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=express" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 20px;" /><br/>
+  <img src="https://skillicons.dev/icons?i=jupyter" style="margin: 20px;" /><br/>
 </div>
+
 
 
 
