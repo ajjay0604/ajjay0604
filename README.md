@@ -35,7 +35,7 @@
   </div>
   <!-- Row 2 -->
   <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin-top: 50px;" />
   </div>
 </div>
 
