@@ -30,12 +30,14 @@
 <h2 align="center">🎨 Tech Stack</h2>
 <div align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express" style="margin: 10px;" />
-  <br /><br /> <!-- Added an extra break for more space -->
+  <div style="margin-bottom: 50px;">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express" style="margin: 10px;" />
+  </div>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin: 10px;" />
+  <div>
+    <img src="https://skillicons.dev/icons?i=mongodb,html,css,tailwind,bootstrap,aws,git,vscode,jupyter" style="margin: 10px;" />
+  </div>
 </div>
-
 
 
 
