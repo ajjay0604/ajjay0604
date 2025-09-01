@@ -5,26 +5,17 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ajjay0604&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge" alt="Profile views"/>
   <a href="https://ajjay0604.github.io/Web_Profile">
-    <img src="https://img.shields.io/badge/Portfolio-Website-00FFFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio%20Website-00FFFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:ajayadi2005.aa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email%20Me-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ajjay-adhithya-v-218716272/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165"/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165"/>
-</div>
 
 
 <h2 align="center">🎨 Tech Stack</h2>
