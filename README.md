@@ -20,10 +20,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30&v=1" height="165"/>
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true&cache_seconds=30&v=1" height="165"/>
 </div>
 
 
