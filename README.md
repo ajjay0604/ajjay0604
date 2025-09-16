@@ -1,14 +1,19 @@
-<!-- Banner -->
 <p align="center">
   <picture>
-    <!-- For dark mode -->
-    <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" media="(prefers-color-scheme: dark)" />
+    <!-- Dark mode -->
+    <source 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" 
+      media="(prefers-color-scheme: dark)" />
 
-    <!-- For light mode -->
-    <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" media="(prefers-color-scheme: light)" />
+    <!-- Light mode -->
+    <source 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" 
+      media="(prefers-color-scheme: light)" />
 
-    <!-- Default (if system theme detection fails) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" alt="Typing SVG" />
+    <!-- Default (if theme detection fails) -->
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ajjay+Adhithya+V!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Researcher+in+Tech+%26+Innovation+%F0%9F%94%AC" 
+      alt="Typing SVG" />
   </picture>
 </p>
 
