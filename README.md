@@ -20,7 +20,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165" width="1000" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajjay0604&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165" /> -->
   
 </div>
