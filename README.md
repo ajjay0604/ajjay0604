@@ -24,6 +24,8 @@
   
   <img src="https://streak-stats.demolab.com?user=ajjay0604&theme=tokyonight&hide_border=false&cache_seconds=1&v=1" height="165" />
 
+  <img src="https://streak-stats.demolab.com?user=ajjay0604&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165" />
+
 
   
 </div>
