@@ -21,9 +21,9 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1&v=1" height="165"/>
-  &nbsp;&nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=ajjay0604&theme=tokyonight&hide_border=true" height="165" />
-
+ -->
 
 
   
