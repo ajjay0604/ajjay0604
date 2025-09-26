@@ -24,7 +24,9 @@
   <!-- &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=ajjay0604&theme=tokyonight&hide_border=true" height="165" />
  -->
-<img src="https://github-readme-stats.vercel.app/api?username=ajjay0604&show_icons=true&theme=tokyonight" height="165" />
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajjay0604&layout=compact&theme=tokyonight" height="165" />
+
 
 
 
